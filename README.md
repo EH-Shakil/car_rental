@@ -23,8 +23,9 @@ Effortless car rentals with a modern platform that simplifies vehicle browsing, 
    - [Operational Challenges](#operational-challenges)  
    - [Technical Challenges](#technical-challenges)  
 9. 🚀 [Future Plans](#future-plans)  
-10. 🌍 [Impact](#impact)  
-11. 🔚 [Conclusion](#conclusion)  
+10. 🌍 [Impact](#impact)
+11. 🖼️  [Screenshots](#Screenshots)
+12. 🔚 [Conclusion](#conclusion)  
 
 ---
 
@@ -147,6 +148,9 @@ With a focus on transparency, ease of use, and efficient management, this platfo
 ### **For Businesses**
 - Streamlines operations, making management more efficient.
 - Improves decision-making with data-driven insights.
+
+## 🖼️ **Screenshots**
+
 
 
 ## 🔚 **Conclusion**
