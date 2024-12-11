@@ -82,7 +82,7 @@ With a focus on transparency, ease of use, and efficient management, this platfo
 ### **Steps**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/car-rental-system.git
+   git clone https://github.com/EH-Shakil/car-rental-system.git
    ```
 2. Move the project files to the `htdocs` folder of your XAMPP installation.
 3. Import the database:
@@ -151,6 +151,104 @@ With a focus on transparency, ease of use, and efficient management, this platfo
 
 ## 🖼️ **Screenshots**
 
+### **For Guest Users**
+
+- **Index Page**:
+ 
+![image](https://github.com/user-attachments/assets/49ef357f-53d5-4ecb-bded-08ba2864be82)
+### **For Customers**
+
+- **Log in Page**:
+  
+![image](https://github.com/user-attachments/assets/27858e91-ae73-49da-a265-b1b993c3300d)
+
+- **Registration Page**:
+
+![image](https://github.com/user-attachments/assets/076d48fe-7c71-420e-a66a-9e34dc916aa3)
+
+- **Profile**:
+
+![image](https://github.com/user-attachments/assets/75530766-b33a-4280-90f8-369c869df8a9)
+
+- **Update Password**:
+
+![image](https://github.com/user-attachments/assets/04ef11a0-57aa-4c2a-8256-c791d0285038)
+
+- **My Booking**:
+
+![image](https://github.com/user-attachments/assets/bb39270c-b93e-4192-aae7-821d41af8a57)
+
+- **Post Testimonial**:
+
+![image](https://github.com/user-attachments/assets/37d4bfed-223e-492f-92c1-27f1ce6eb4c2)
+
+- **My Testimonial**:
+
+![image](https://github.com/user-attachments/assets/d14e3b8a-0b03-4a37-bcac-035468dd47f7)
+
+- **Car List**:
+
+![image](https://github.com/user-attachments/assets/d719a43e-cba9-44a6-b819-8a6f51974edf)
+
+- **Car Details**:
+
+![image](https://github.com/user-attachments/assets/e5eea239-9b79-4169-ba80-9675bbc186d6)
+
+- **Contact Us**:
+
+![image](https://github.com/user-attachments/assets/5deb7ae1-d843-481c-85fe-427dc0c1d1d7)
+
+
+### **For Admin**
+
+- **Admin Login**:
+
+![image](https://github.com/user-attachments/assets/32c9bd6f-6d91-4d6b-8eac-5e78c77aed08)
+
+- **Change Password**:
+
+![image](https://github.com/user-attachments/assets/f2245cbe-7832-49ff-81ca-c1dd0eb45d4b)
+
+- **Dashboard**:
+
+![image](https://github.com/user-attachments/assets/3eb31eb1-c231-419d-9a6d-82b826a1125a)
+
+- **Create And Manage Brands**:
+
+![image](https://github.com/user-attachments/assets/d568000a-fc66-44f1-a89d-6de4646c39e2)
+
+![image](https://github.com/user-attachments/assets/0ceeccc6-2635-4c00-9ea3-47a4a6ef1ee8)
+
+- **Manage Booking**:
+
+![image](https://github.com/user-attachments/assets/5865e04d-1674-4ede-bde2-c961800a0226)
+
+- **Manage Testimonial**:
+
+![image](https://github.com/user-attachments/assets/636a868f-ca38-4103-9263-4a73d8e50382)
+
+- **Manage ContactUs**:
+
+![image](https://github.com/user-attachments/assets/963fccba-f0eb-4d04-a585-266f68960a5c)
+
+-  **Manage Page**:
+
+![image](https://github.com/user-attachments/assets/fe619dbe-181b-4058-90db-081bb35cd872)
+
+- **Registered Users**:
+
+![image](https://github.com/user-attachments/assets/1d68eb6c-e76b-40f0-b880-bc04c208d7aa)
+
+- **Update Admin ContactInfo**:
+
+![image](https://github.com/user-attachments/assets/3250a9db-30a2-4591-9cc1-7e4d4f47dbc3)
+
+- **Manage Subscriber**:
+
+![image](https://github.com/user-attachments/assets/4d452723-dd67-4d6d-a379-265c2ffb0706)
+
+  
+  
 
 
 ## 🔚 **Conclusion**
