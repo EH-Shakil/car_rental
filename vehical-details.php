@@ -410,7 +410,7 @@ foreach($results as $result)
 <div id="back-top" class="back-top"> <a href="#top"><i class="fa fa-angle-up" aria-hidden="true"></i> </a> </div>
 <!--/Back to top--> 
 
-<!--Login-Form -->
+<!--Login-Form  -->
 <?php include('includes/login.php');?>
 <!--/Login-Form --> 
 
