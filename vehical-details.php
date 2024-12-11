@@ -50,7 +50,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
 <!--OWL Carousel slider-- >
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
 <link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css">
-<!--slick-slider -->
+<!--slick-slider -- >
 <link href="assets/css/slick.css" rel="stylesheet">
 <!--bootstrap-slider -->
 <link href="assets/css/bootstrap-slider.min.css" rel="stylesheet">
