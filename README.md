@@ -82,7 +82,7 @@ With a focus on transparency, ease of use, and efficient management, this platfo
 ### **Steps**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/car-rental-system.git
+   git clone https://github.com/EH-Shakil/car-rental-system.git
    ```
 2. Move the project files to the `htdocs` folder of your XAMPP installation.
 3. Import the database:
